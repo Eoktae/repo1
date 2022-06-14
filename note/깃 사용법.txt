@@ -27,7 +27,7 @@
 # .gitignore
 
 - .gitignore 파일에 작성해둔 패턴과 일치하는 파일들은 Git의 관리대상에서 제외된다
-- Eclipse 프로젝트를 사용할 때는 Eclipse 관련 파일들을 등록해놓는 것이 좋다
+- Eclipse 프로젝트를 사용할 때는 Eclipse 관련 파일들을 등록해놓는 것이  좋다
 
 	
 	.classpath
